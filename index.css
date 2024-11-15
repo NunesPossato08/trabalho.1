@@ -1,0 +1,49 @@
+html{
+    background-color: #473ec7;
+}
+
+main {
+    text-align : center;
+    width: 400%;
+    margin: 400px 0;
+    font-size: 300;
+}
+        main{
+    width: 1000px;
+    margin: 150px;
+    max-width: 100%;
+     font-size: 100%;
+    background-color:white ;
+    justify-items: 2000;
+    align-items: 100;
+}
+main2 img{
+    width: 300px;
+    height: 200px;
+    margin-top: -500;
+    max-width: 100%;
+}
+
+form{
+    display: inline-block;
+    width: 200pc;
+}
+
+form label{
+    display: block;
+    font-size: 20px;
+}
+
+
+form{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px25px;
+    width: 500%;
+}
+button{
+    background-color: #47c037;
+    font-size: 70%;
+    border-radius: 7px;
+
+}
